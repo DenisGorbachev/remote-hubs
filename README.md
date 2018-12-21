@@ -14,6 +14,11 @@ Benefits:
 
 > Sounds like a good solution? Star this repository to raise awareness.
 
+# How To
+
+* [Add your profile](https://github.com/DenisGorbachev/remote-hubs/edit/master/README.md).
+* Share the repository ([Facebook](https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io) or Twitter)
+
 # Companies
 
 * [Moonbase](https://moonbase.exchange/) is a cryptocurrency exchange where you can short scam ICOs to the ground. By selling futures contracts, you can dump the price of fraudulent tokens, punishing bad actors & making money at the same time.
