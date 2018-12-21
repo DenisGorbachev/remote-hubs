@@ -14,3 +14,11 @@ Benefits:
 
 > Sounds like a good solution? Star this repository to raise awareness.
 
+# Hubs
+
+# People
+
+* [Ivan Rozhkov](https://github.com/ivan133)
+  * Developer, Team Leader
+  * JavaScript, Python
+  * Meteor, NodeJS, Flask
