@@ -14,10 +14,17 @@ Benefits:
 
 > Sounds like a good solution? Star this repository to raise awareness.
 
-# How To
+# How To Join A Remote Hub
 
-* [Add your profile](https://github.com/DenisGorbachev/remote-hubs/edit/master/README.md).
-* Share the repository ([Facebook](https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io) or Twitter)
+* [Add your resume to "People" section](https://github.com/DenisGorbachev/remote-hubs/edit/master/README.md).
+* Share this page ([Facebook](https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io) or Twitter)
+* Get offers from companies with remote hubs.
+
+# How To Form A Remote Hub
+
+* [Add your vacancies to "Companies" section](https://github.com/DenisGorbachev/remote-hubs/edit/master/README.md).
+* Share this page ([Facebook](https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io) or Twitter)
+* Get resumes from people willing to join your remote hub.
 
 # Companies
 
