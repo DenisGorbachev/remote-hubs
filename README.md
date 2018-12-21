@@ -1,6 +1,4 @@
-# Remote Hubs
-
-## ***♫ You'll never work alone ♫***
+# Remote Hubs - ***♫ You'll never work alone ♫***
 
 ### Problem
 
