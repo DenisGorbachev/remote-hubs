@@ -14,7 +14,16 @@ Benefits:
 
 > Sounds like a good solution? Star this repository to raise awareness.
 
-# Hubs
+# Companies
+
+* Moonbase
+  * Jobs
+    * [Growth hacker](https://medium.com/@dengorbachev/growth-hacker-for-crypto-exchange-db315c2e27e6)
+    * [Software developer](https://medium.com/@dengorbachev/implement-pamm-accounts-for-crypto-exchange-fe034f9e79e)
+  * Hubs
+    * Moscow, Russia
+    * Koh Phangan, Thailand
+
 
 # People
 
@@ -22,3 +31,7 @@ Benefits:
   * Developer, Team Leader
   * JavaScript, Python
   * Meteor, NodeJS, Flask
+
+# Feedback
+
+Have something to say? You're welcome! Please send a message to denis.d.gorbachev@gmail.com
