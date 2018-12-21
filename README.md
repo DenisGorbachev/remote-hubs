@@ -29,13 +29,18 @@ Benefits:
     * Moscow, Russia
     * Koh Phangan, Thailand
 
-
 # People
 
 * [Ivan Rozhkov](https://github.com/ivan133)
   * Developer, Team Leader
   * JavaScript, Python
   * Meteor, NodeJS, Flask
+
+# FAQ
+
+> What's the difference between remote hub & regular office?
+
+Remote hub is a group of people, not a point on the map: it can move between multiple places.
 
 # Feedback
 
