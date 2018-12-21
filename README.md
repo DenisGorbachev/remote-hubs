@@ -24,7 +24,7 @@ You can join a "remote hub" of the company - a group of employees working on the
 
 # How To Create A Remote Hub
 
-* [Add your vacancies to "Companies" section](https://github.com/DenisGorbachev/remote-hubs/edit/master/README.md).
+* [Add your vacancy to "Companies" section](https://github.com/DenisGorbachev/remote-hubs/edit/master/README.md).
 * Share this page ([Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//github.com/DenisGorbachev/remote-hubs) or [Twitter](https://twitter.com/home?status=I%20want%20to%20work%20remotely,%20but%20I%20don't%20want%20to%20work%20alone.%20%23remotehubs%20https%3A//github.com/DenisGorbachev/remote-hubs))
 * Get resumes from people willing to join your remote hub.
 
@@ -38,12 +38,16 @@ You can join a "remote hub" of the company - a group of employees working on the
     * Moscow, Russia
     * Koh Phangan, Thailand
 
+[Add your vacancy](https://github.com/DenisGorbachev/remote-hubs/edit/master/README.md)
+
 # People
 
 * [Ivan Rozhkov](https://github.com/ivan133)
   * Developer, Team Leader
   * JavaScript, Python
   * Meteor, NodeJS, Flask
+
+[Add your profile](https://github.com/DenisGorbachev/remote-hubs/edit/master/README.md)
 
 # FAQ
 
