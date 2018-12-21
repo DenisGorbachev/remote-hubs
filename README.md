@@ -17,13 +17,13 @@ Benefits:
 # How To Join A Remote Hub
 
 * [Add your resume to "People" section](https://github.com/DenisGorbachev/remote-hubs/edit/master/README.md).
-* Share this page ([Facebook](https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io) or Twitter)
+* Share this page ([Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//github.com/DenisGorbachev/remote-hubs) or [Twitter](https://twitter.com/home?status=Awesome%20idea%3A%20combat%20loneliness%20of%20remote%20work%20https%3A//github.com/DenisGorbachev/remote-hubs))
 * Get offers from companies with remote hubs.
 
 # How To Create A Remote Hub
 
 * [Add your vacancies to "Companies" section](https://github.com/DenisGorbachev/remote-hubs/edit/master/README.md).
-* Share this page ([Facebook](https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io) or Twitter)
+* Share this page ([Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//github.com/DenisGorbachev/remote-hubs) or [Twitter](https://twitter.com/home?status=Awesome%20idea%3A%20combat%20loneliness%20of%20remote%20work%20https%3A//github.com/DenisGorbachev/remote-hubs))
 * Get resumes from people willing to join your remote hub.
 
 # Companies
