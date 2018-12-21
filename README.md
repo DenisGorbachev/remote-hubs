@@ -20,7 +20,7 @@ Benefits:
 * Share this page ([Facebook](https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io) or Twitter)
 * Get offers from companies with remote hubs.
 
-# How To Form A Remote Hub
+# How To Create A Remote Hub
 
 * [Add your vacancies to "Companies" section](https://github.com/DenisGorbachev/remote-hubs/edit/master/README.md).
 * Share this page ([Facebook](https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io) or Twitter)
