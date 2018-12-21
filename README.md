@@ -38,7 +38,7 @@ You can join a "remote hub" of the company - a group of employees working on the
     * Moscow, Russia
     * Koh Phangan, Thailand
 
-[Add your vacancy](https://github.com/DenisGorbachev/remote-hubs/edit/master/README.md)
+*[Add your vacancy](https://github.com/DenisGorbachev/remote-hubs/edit/master/README.md)*
 
 # People
 
@@ -47,7 +47,7 @@ You can join a "remote hub" of the company - a group of employees working on the
   * JavaScript, Python
   * Meteor, NodeJS, Flask
 
-[Add your profile](https://github.com/DenisGorbachev/remote-hubs/edit/master/README.md)
+*[Add your profile](https://github.com/DenisGorbachev/remote-hubs/edit/master/README.md)*
 
 # FAQ
 
