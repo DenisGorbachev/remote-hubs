@@ -14,7 +14,9 @@ You can join a "remote hub" of the company - a group of employees working on the
 * Feel yourself a part of a small united team.
 * Move freely between remote hubs.
 
-> Sounds like a good solution? Star this repository to raise awareness.
+## Support The Idea
+
+[![Share on Facebook](https://cdn.staticaly.com/gh/DenisGorbachev/remote-hubs/fd567658/img/share.png)](https://www.facebook.com/sharer/sharer.php?u=https%3A//github.com/DenisGorbachev/remote-hubs) [![Post on Twitter](https://cdn.staticaly.com/gh/DenisGorbachev/remote-hubs/fd567658/img/tweet.png)](https://twitter.com/home?status=I%20want%20to%20work%20remotely,%20but%20I%20don't%20want%20to%20work%20alone.%20%23remotehubs%20https%3A//github.com/DenisGorbachev/remote-hubs)
 
 # How To Join A Remote Hub
 
