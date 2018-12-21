@@ -16,7 +16,7 @@ Benefits:
 
 # Companies
 
-* Moonbase
+* [Moonbase](https://moonbase.exchange/) is a cryptocurrency exchange where you can short scam ICOs to the ground. By selling futures contracts, you can dump the price of fraudulent tokens, punishing bad actors & making money at the same time.
   * Jobs
     * [Growth hacker](https://medium.com/@dengorbachev/growth-hacker-for-crypto-exchange-db315c2e27e6)
     * [Software developer](https://medium.com/@dengorbachev/implement-pamm-accounts-for-crypto-exchange-fe034f9e79e)
