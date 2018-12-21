@@ -9,7 +9,7 @@ Solution: you can join a "remote hub" of the company - a group of employees work
 Benefits:
 
 * Have face-to-face conversations: ask for advice or get feedback.
-* Feel yourself a part of a small united group.
+* Feel yourself a part of a small united team.
 * Move freely between remote hubs.
 
 > Sounds like a good solution? Star this repository to raise awareness.
