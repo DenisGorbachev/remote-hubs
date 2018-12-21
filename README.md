@@ -6,7 +6,7 @@ You want to work remotely for a global company, but you don't want to sit alone 
 
 ### Solution
 
-You can join a "remote hub" of the company - a group of employees working on the same project at the local place. If the company has multiple remote hubs in different countries, you can travel between them, too.
+You can join a "remote hub" of the company - a group of employees working on the same project at remote location. If the company has multiple hubs in different countries, you can travel between them, too.
 
 ### Benefits
 
