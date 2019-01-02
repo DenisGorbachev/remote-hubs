@@ -2,11 +2,12 @@
 
 ### Problem
 
-You want to work remotely for a global company, but you don't want to sit alone at home. You also don't want to visit coworking - since everybody is working on a different project, it feels like you're in the same place, but not together.
+* You want to work remotely.
+* You don't want to sit alone at home.
 
 ### Solution
 
-You can join a "remote hub" of the company - a group of employees working on the same project at remote location. If the company has multiple hubs in different countries, you can travel between them, too.
+You can join a "remote hub" - a group of employees working on the same project at remote location. If the company has multiple hubs in different countries, you can travel between them, too.
 
 ### Benefits
 
